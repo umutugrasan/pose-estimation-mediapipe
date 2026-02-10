@@ -97,9 +97,8 @@ Bu süreçte aşağıdaki konularda pratik deneyim kazanılmıştır:
 
 ---
 
-## Lisans
 
 
-Bu proje MIT lisansı ile lisanslanmıştır.
+
 
 
