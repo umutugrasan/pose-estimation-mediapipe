@@ -68,7 +68,7 @@ python pose_estimation.py
 
 
 Projede kullanılan vücut eklem noktalarının (landmark) referans şeması aşağıdadır:
-![Pose Estimation](assets/pose_estimation_schema.png)
+![Pose Estimation](/pose_estimation_schema.png)
 
 
 > ⭐ Bu projede ID: 13 (sol dirsek) mavi daire ile özel olarak işaretlenmiştir.
@@ -98,3 +98,4 @@ Bu süreçte aşağıdaki konularda pratik deneyim kazanılmıştır:
 
 
 Bu proje MIT lisansı ile lisanslanmıştır.
+
