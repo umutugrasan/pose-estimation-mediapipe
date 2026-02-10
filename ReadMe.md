@@ -36,8 +36,8 @@ Kodun ilerleyen versiyonlarında şu hareket türleri tespit edilebilir:
 
 ```bash
 # 1. Repoyu klonlayın
-git clone https://github.com/kullanici-adi/pose-estimation.git
-cd pose-estimation
+git clone https://github.com/umutugrasan/pose-estimation-mediapipe.git
+cd pose-estimation-mediapipe
 
 # 2. Sanal ortam oluşturun ve aktif edin
 python -m venv venv
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ## Kullanım
 
 ```bash
-python pose_estimation.py
+python pose-estimation-mediapipe.py
 ```
 
 > **Video Modu:** `cap = cv2.VideoCapture("video5.mp4")` satırına kendi video dosyanızın adını yazın.
@@ -96,6 +96,7 @@ Bu süreçte aşağıdaki konularda pratik deneyim kazanılmıştır:
 | MediaPipe  | 0.10.7     | Pose landmark tespiti           |
 
 ---
+
 
 
 
